@@ -15,6 +15,7 @@ Let me tell you a bit more about myself:
 - 🖥️ **Coding**: I'm constantly learning and improving my Java skills, and I'm excited about the possibilities it offers in the software development world.
 - 📸 **Photography**: Although it's not my primary focus now, I still love taking photos and exploring different photography styles.
 - 🎨 **Design**: My experience with design software allows me to bring a unique perspective to my coding and development projects.
+- 🎮 **Gaming**: I'm a passionate gamer and enjoy exploring virtual worlds, solving puzzles, and competing with friends online.
 
 ## Get in Touch
 
