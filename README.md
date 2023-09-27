@@ -5,6 +5,7 @@ Let me tell you a bit more about myself:
 
 ## About Me
 
+
 - 🎓 I'm currently pursuing my studies in Java programming, striving to become a proficient developer.
 - 📷 Photography used to be one of my favorite hobbies, and I have a keen eye for capturing moments.
 - 💻 I'm proficient in various design software, including Photoshop, InDesign, Illustrator, Final Cut, and After Effects.
@@ -12,12 +13,14 @@ Let me tell you a bit more about myself:
 
 ## My Interests
 
+
 - 🖥️ **Coding**: I'm constantly learning and improving my Java skills, and I'm excited about the possibilities it offers in the software development world.
 - 📸 **Photography**: Although it's not my primary focus now, I still love taking photos and exploring different photography styles.
 - 🎨 **Design**: My experience with design software allows me to bring a unique perspective to my coding and development projects.
 - 🎮 **Gaming**: I'm a passionate gamer and enjoy exploring virtual worlds, solving puzzles, and competing with friends online.
 
 ## Get in Touch
+
 
 Feel free to reach out if you'd like to collaborate on a project, discuss coding, design, or just have a friendly chat. You can find me on:
 
