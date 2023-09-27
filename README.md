@@ -22,5 +22,3 @@ Feel free to reach out if you'd like to collaborate on a project, discuss coding
 
 - 📧 Email: [ariadaneshmand91@googlemail.com](mailto:ariadaneshmand91@googlemail.com)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/aria-daneshmand-150680265/](https://www.linkedin.com/in/aria-daneshmand-150680265/)
-
-Let's connect and create something amazing together! 🚀
