@@ -8,7 +8,7 @@ Let me tell you a bit more about myself:
 
 - 🎓 I'm currently pursuing my studies in Java programming, striving to become a proficient developer.
 - 📷 Photography used to be one of my favorite hobbies, and I have a keen eye for capturing moments.
-- 💻 I'm proficient in various design software, including Photoshop, InDesign, Illustrator, Final Cut, and After Effects.
+- 💻 I'm proficient in various graphic design software, including Photoshop, InDesign, Illustrator, Final Cut, and After Effects.
 - 🌟 I'm passionate about the intersection of technology and creativity, always looking for ways to merge these interests.
 
 ## My Interests
